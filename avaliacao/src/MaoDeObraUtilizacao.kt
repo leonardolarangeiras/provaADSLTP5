@@ -1,0 +1,1 @@
+class MaoDeObraUtilizacao(var maodeobra: MaoDeObra, var qtd: Int, var horas: Int)

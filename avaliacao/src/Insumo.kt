@@ -1,0 +1,1 @@
+class Insumo(var descricao: String, var preco: Double)

@@ -1,0 +1,1 @@
+class MaoDeObra(var descricao: String, var preco: Double)

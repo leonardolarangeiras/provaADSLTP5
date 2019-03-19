@@ -1,0 +1,1 @@
+class Equipamento(var descricao: String, var preco: Double)

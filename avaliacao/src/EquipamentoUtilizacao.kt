@@ -1,0 +1,1 @@
+class EquipamentoUtilizacao(var equipamento: Equipamento, var qtd: Int, var horas: Int)
